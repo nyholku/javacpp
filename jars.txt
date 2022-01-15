@@ -1,0 +1,9 @@
+junit-4.13.2.jar
+maven-artifact-3.8.4.jar
+maven-core-3.0.jar
+maven-model-3.8.4.jar
+maven-plugin-annotations-3.6.2.jar
+maven-plugin-api-3.8.4.jar
+osgi.annotation-7.0.0.jar
+slf4j-api-1.7.33.jar
+slf4j-simple-1.7.32.jar
